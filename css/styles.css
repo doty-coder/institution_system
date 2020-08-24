@@ -1,0 +1,65 @@
+body{
+    margin: auto;
+}
+.table{
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    table-layout: auto;
+
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.jumbotron{
+
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.buttons{
+    color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 196px;
+    border: none;
+    cursor: pointer;
+    padding-bottom: 30px;
+}
+h2{
+    padding-top: 20px;
+}
+form{
+    padding: 10px;
+    margin: 20px;
+}
+.logo{
+    padding-top: 30px;
+    margin-top: 50px;
+}
+
+
+.frms{
+    background: brown;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+input[type=text],select{
+    margin-bottom: 20px;
+
+}
+.logo{
+    display: flex;
+     align-items: center;
+    justify-content: center;
+}
+.form{
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
